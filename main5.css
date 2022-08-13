@@ -1,0 +1,298 @@
+@font-face {
+    font-family: "Montserrat-Black";
+    src: url("../assets/fonts/Montserrat/Montserrat-Black.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-BlackItalic";
+    src: url("../assets/fonts/Montserrat/Montserrat-BlackItalic.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url("../assets/fonts/Montserrat/Montserrat-Bold.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-BoldItalic";
+    src: url("../assets/fonts/Montserrat/Montserrat-BoldItalic.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-ExtraBold";
+    src: url("../assets/fonts/Montserrat/Montserrat-ExtraBold.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-ExtraBoldItalic";
+    src: url("../assets/fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-ExtraLight";
+    src: url("../assets/fonts/Montserrat/Montserrat-ExtraLight.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-ExtraLightItalic";
+    src: url("../assets/fonts/Montserrat/Montserrat-ExtraLightItalic.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-Italic";
+    src: url("../assets/fonts/Montserrat/Montserrat-Italic.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-Light";
+    src: url("../assets/fonts/Montserrat/Montserrat-Light.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-LightItalic";
+    src: url("../assets/fonts/Montserrat/Montserrat-LightItalic.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-Medium";
+    src: url("../assets/fonts/Montserrat/Montserrat-Medium.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-MediumItalic";
+    src: url("../assets/fonts/Montserrat/Montserrat-MediumItalic.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-Regular";
+    src: url("../assets/fonts/Montserrat/Montserrat-Regular.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-SemiBold";
+    src: url("../assets/fonts/Montserrat/Montserrat-SemiBold.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-SemiBoldItalic";
+    src: url("../assets/fonts/Montserrat/Montserrat-SemiBoldItalic.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-Thin";
+    src: url("../assets/fonts/Montserrat/Montserrat-Thin.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Montserrat-ThinItalic";
+    src: url("../assets/fonts/Montserrat/Montserrat-ThinItalic.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Comfortaa-Bold";
+    src: url("../assets/fonts/Comfortaa/Comfortaa-Bold.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Comfortaa-Light";
+    src: url("../assets/fonts/Comfortaa/Comfortaa-Light.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Comfortaa-Medium";
+    src: url("../assets/fonts/Comfortaa/Comfortaa-Medium.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Comfortaa-Regular";
+    src: url("../assets/fonts/Comfortaa/Comfortaa-Regular.ttf") format("truetype");
+    font-display: swap; }
+@font-face {
+    font-family: "Comfortaa-SemiBold";
+    src: url("../assets/fonts/Comfortaa/Comfortaa-SemiBold.ttf") format("truetype");
+    font-display: swap; }
+.icon {
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+    vertical-align: sub;
+    mask-size: 100% 100%;
+    mask-repeat: no-repeat;
+    mask-position: center;
+    -webkit-mask-size: 100% 100%;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center; }
+.icon-apple {
+    mask-image: url("../assets/icons/apple.png");
+    -webkit-mask-image: url("../assets/icons/apple.png");
+    background-color: #5F5F5F; }
+
+.icon-down {
+    mask-image: url("../assets/icons/down.svg");
+    -webkit-mask-image: url("../assets/icons/down.svg"); }
+.iconfacebook {
+    mask-image: url("../assets/icons/facebook.svg");
+    -webkit-mask-image: url("../assets/icons/facebook.svg"); }
+.icon-heart {
+    mask-image: url("../assets/icons/heart.png");
+    -webkit-mask-image: url("../assets/icons/heart.png"); }
+.icons-heartblue{
+    mask-image: url("../assets/icons/heartblue.png");
+    -webkit-mask-image:url("../assets/icons/heartblue.png") ;
+}
+.icon-list {
+    mask-image: url("../assets/icons/list.svg");
+    -webkit-mask-image: url("../assets/icons/list.svg"); }
+.icon-instagram {
+    mask-image: url("../assets/icons/instagram.svg");
+    -webkit-mask-image: url("../assets/icons/instagram.svg"); }
+.icon-location {
+    mask-image: url("../assets/icons/location.svg");
+    -webkit-mask-image: url("../assets/icons/location.svg"); }
+.icon-menu {
+    mask-image: url("../assets/icons/menu.svg");
+    -webkit-mask-image: url("../assets/icons/menu.svg"); }
+.icon-notification {
+    mask-image: url("../assets/icons/notification.png");
+    -webkit-mask-image: url("../assets/icons/notification.png"); }
+.icon-phone {
+    mask-image: url("../assets/icons/phone.svg");
+    -webkit-mask-image: url("../assets/icons/phone.svg"); }
+.icon-plus {
+    mask-image: url("../assets/icons/plus.svg");
+    -webkit-mask-image: url("../assets/icons/plus.svg"); }
+.icon-right {
+    mask-image: url("../assets/icons/right.svg");
+    -webkit-mask-image: url("../assets/icons/right.svg"); }
+.icon-user {
+    mask-image: url("../assets/icons/user.svg");
+    -webkit-mask-image: url("../assets/icons/user.svg"); }
+.icon-telegram {
+    mask-image: url("../assets/icons/telegram.svg");
+    -webkit-mask-image: url("../assets/icons/telegram.svg"); }
+.icon-google-play {
+    mask-image: url("../assets/icons/google-play.svg");
+    -webkit-mask-image: url("../assets/icons/google-play.svg");
+    background-color: gray; }
+.icon-map {
+    mask-image: url("../assets/icons/map.svg");
+    -webkit-mask-image: url("../assets/icons/map.svg"); }
+
+body {
+    background-color: #FFFFff;
+    font-family: "Montserrat-Medium",sans-serif; }
+
+html {
+    font-size: 17px;
+    scroll-behavior: smooth; }
+.container1{
+    padding: 0;
+}
+nav {
+    /*background-image: url(../assets/images/navback.png);*/
+    width: 100%;
+    font-family: "Montserrat-Medium",sans-serif;
+    background-color: #FFFFFF;
+}
+
+nav a {
+    color: black;
+    text-decoration: none; }
+nav a:hover{
+    color: #0AA0E0;
+}
+nav .container1 {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav .container1 .d-flex .navbar {
+    font-size: 12px;
+    font-family: "Comfortaa-Regular",sans-serif; }
+nav .container1 .d-flex #item2 {
+    display: flex;
+    align-items: center;
+    font-family: "Comfortaa-Bold",sans-serif;
+    font-size: 12px;
+
+}
+nav .container1 .d-flex #item2 button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 10px;
+    background-color: #F3F3F3; }
+nav .container1 .d-flex #item3{
+    margin-left: 170px;
+}
+nav .container1 .d-flex #item3 .btn:nth-child(1) {
+    border-radius: 50%;
+    border: 1px #0AA0E0 solid; }
+nav .container1 .d-flex #item3 .btn:nth-child(2) {
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px #0AA0E0 solid;
+    color: #0AA0E0;
+    font-family: "Montserrat-Regular",sans-serif;
+    font-size: 12px; }
+nav .container1 .d-flex #item3 .btn:nth-child(3) {
+    border: 0; }
+
+
+
+
+
+
+
+
+
+
+
+#item {
+    /*margin-right: auto;*/
+    /*margin-left: auto;*/
+    background-color: #019CDE;
+    color: white;
+    padding-top: 43px;
+    margin-top: -7px;
+
+    /*position: absolute;*/
+
+}
+#item .item_2 {
+    white-space: nowrap; }
+#item p {
+    font-size: 12px;
+    font-family: "Montserrat-Regular",sans-serif;
+    color: white;
+    padding-left: 10px;
+    opacity: 0.7; }
+#item h4 {
+    font-family: "Montserrat-Medium",sans-serif;
+    font-size: 18px; }
+#item li {
+    white-space: nowrap; }
+#item a {
+    color: white;
+    font-size: 12px;
+    font-family: "Montserrat-Regular",sans-serif; }
+#item ul:last-child {
+    padding-left: 50px; }
+#item .item_4 {
+    font-family: "Montserrat-Medium",sans-serif;
+    font-size: 18px; }
+#item .item_5 {
+    width: 42px;
+    height: 42px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-left: 10px; }
+#item .item_5:hover {
+    background-color: white; }
+#item img {
+    padding-left: 6px;
+    padding-top: 6px; }
+
+.item_6 h4 {
+    font-family: "Montserrat-Medium",sans-serif;
+    font-size: 18px; }
+.item_6 .item_7 {
+    width: 42px;
+    height: 42px;
+    border: 1px solid white;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 10px;
+    justify-content: center; }
+.item_6 .item_7 img {
+    margin-left: 5px;
+
+}
+
+.teg p {
+    text-align: center;
+}
+
+
+.active a{
+    color: #0AA0E0;
+}
